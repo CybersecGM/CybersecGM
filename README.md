@@ -6,8 +6,8 @@
   - [Security-Audit-and-Compliance-Check](https://github.com/CybersecGM/Security-Audit-and-Compliance-Check)
   - [DNS-Incident-Analysis-Report](https://github.com/CybersecGM/DNS-Incident-Analysis-Report)
 
-- <b>Home Lab Projects</b>
-  -[]()
+- <b>Own Projects</b>
+  - [Full-Stack Network Security Solution for a Self-Hosted Hostel Environment](https://github.com/CybersecGM/Full-Stack-Network-Security-Solution-for-a-Self-Hosted-Hostel-Environment)
   
 <h2>📝 Certifications</h2>
 
